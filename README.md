@@ -20,7 +20,7 @@
 
 ## 🚀 Languages and Tools:
 - FrontEnd  : HTML / CSS / JAVASCRIPT , BOOTSTRAP 
-- Backend  :   php / musql / api , laravel framework 
+- Backend  :   php / mysql / api , laravel framework / Oracle / sql server / Data Managment
  
 
 
