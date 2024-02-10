@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ahmedkh12?tab=repositories)**
 
-- 📫 How to reach me **https://www.facebook.com/profile.php?id=100003572680783**
+
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
